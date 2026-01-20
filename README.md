@@ -4,7 +4,7 @@
 
 > **Thesis**
 
-> **Authors**: Federico Moro 
+> **Authors**: Federico Moro and Silvia Lucia Sanna
 
 
 ***
