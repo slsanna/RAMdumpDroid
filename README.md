@@ -1,8 +1,4 @@
-# MemoryTool
-
-> **Master's degree in Computer Engineering, Cybersecurity and Artificial Intelligence - University of Cagliari**
-
-> **Thesis**
+# RAMdumpDroid
 
 > **Authors**: Federico Moro and Silvia Lucia Sanna
 
@@ -18,13 +14,13 @@
 ***
 
 ## Overview
-The Memorytool tool is designed to perform RAM memory acquisition of an emulated AVD device via the Android SDK suite. Key features include:
+The RAMdumpDroid tool is designed to perform RAM memory acquisition of an emulated AVD device via the Android SDK suite. Key features include:
 - Creation and configuration of custom AVDs;
 - Management of created AVDs, with the possibility to delete them;
 - Installation of applications via .apk files;
 - Dumping of RAM memory, the main functionality of the tool.
 
-The main objective of Memorytool is to support the forensic analysis of virtual devices by automating the RAM acquisition process. This procedure can be performed in two ways:
+The main objective of RAMdumpDroid is to support the forensic analysis of virtual devices by automating the RAM acquisition process. This procedure can be performed in two ways:
 1. Full memory dump, using the LiME module.
 2. Targeted acquisition of a single process, using the Frida tool.
 
