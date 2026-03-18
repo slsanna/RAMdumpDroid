@@ -47,7 +47,7 @@ The main objective of RAMdumpDroid is to support the forensic analysis of virtua
 
 - Download the ZIP code or clone the repository with
   ```bash
-  git clone https://github.com/Federico0307/memorytool.git
+  git clone [https://github.com/slsanna/RAMdumpDroid](https://github.com/slsanna/RAMdumpDroid)
   ```
   
 ### Software Dependencies
