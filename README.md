@@ -1,6 +1,7 @@
 # RAMdumpDroid
 
 > **Authors**: Federico Moro and Silvia Lucia Sanna
+> Previously known as AndroMemDump but in conflict with previous similar tool
 
 
 ***
