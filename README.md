@@ -28,7 +28,7 @@ The main objective of RAMdumpDroid is to support the forensic analysis of virtua
 ## Project Structure
 
   ```bash
-    /memorytool
+    /RAMdumpDroid
       ├── apk_file/              # Contains APK files for app installations
       ├── dump/                  # Stores memory dump files
       ├── files/                 # Contains additional resources or data files
