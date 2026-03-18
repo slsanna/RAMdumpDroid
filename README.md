@@ -1,6 +1,6 @@
 # RAMdumpDroid
 
-> **Authors**: Federico Moro and Silvia Lucia Sanna
+> **Authors**: Silvia Lucia Sanna (technical dump) and Federico Moro (kernel recompilation and complete tool)
 > Previously known as AndroMemDump but in conflict with previous similar tool
 
 
